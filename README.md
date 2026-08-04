@@ -22,12 +22,12 @@
     </a>
     <a href="https://github.com/Electroxcz/PlayStore_Hack/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/Electroxcz/PlayStore_Hack?color=orange&style=for-the-badge" alt="License" />
-    </a>
+   • </a>
   </p>
 
   <p>
    • <a href="#features">Features</a> •
-   • <a href="#installation">Installation</a> •
+    <a href="#installation">Installation</a> •
     <a href="https://github.com/Electroxcz/PlayStore_Hack/releases/tag/PlayStore_Hack%2Freleases">Download Release</a> •
     <a href="#disclaimer">Disclaimer</a>
   </p>
