@@ -27,8 +27,8 @@
 
   <p>
    • <a href="#features">Features</a> •
-    <a href="#installation">Installation</a> •
-   • <a href="https://github.com/Electroxcz/PlayStore_Hack/releases/tag/PlayStore_Hack%2Freleases">Download Release</a> •
+   • <a href="#installation">Installation</a> •
+    <a href="https://github.com/Electroxcz/PlayStore_Hack/releases/tag/PlayStore_Hack%2Freleases">Download Release</a> •
     <a href="#disclaimer">Disclaimer</a>
   </p>
 
