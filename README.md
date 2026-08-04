@@ -7,7 +7,11 @@ This's a formal documentation of bypassing Google Regional Restrictions accross 
 
 ### ABOUT
 **google-play**
+
 **playstore**
+
 **testing-methodology**
+
 **payment-gateway**
+
 **android-development**
